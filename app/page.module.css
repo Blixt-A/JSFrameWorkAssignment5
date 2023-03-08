@@ -7,4 +7,19 @@
   min-height: 100vh;
 }
 
+.link {
+  color: red;
+  font-weight: 900;
+}
+
+.link:hover {
+  opacity: 80%;
+}
+
+.animalConatiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
 
